@@ -1,2 +1,2 @@
 ﻿INSERT INTO Pessoa(id, nome)
-VALUES (1, 'Pessoa')
+VALUES (3, 'Sicrano')
