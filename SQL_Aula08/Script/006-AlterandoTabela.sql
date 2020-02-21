@@ -1,0 +1,1 @@
+﻿ALTER TABLE Pessoa ADD Lastname VARCHAR(50);
