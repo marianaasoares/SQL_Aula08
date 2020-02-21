@@ -19,3 +19,4 @@ DELETE FROM PESSOA WHERE id = 2;
 
 
 Select * FROM Pessoa p INNER JOIN Carro c ON p.id = c.IdPessoa --Join entre tabelas
+-- WHERE p.nome = 'Felipe'
