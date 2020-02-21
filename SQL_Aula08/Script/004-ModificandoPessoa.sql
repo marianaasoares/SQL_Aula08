@@ -1,0 +1,1 @@
+﻿UPDATE Pessoa SET nome = 'abc' WHERE id = 2;
