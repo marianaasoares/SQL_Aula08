@@ -16,3 +16,6 @@ SELECT * FROM Carro;
 
 DELETE FROM Carro WHERE Id = (SELECT Id FROM Carro WHERE IdPessoa = 3)
 DELETE FROM PESSOA WHERE id = 2;
+
+
+Select * FROM Pessoa p INNER JOIN Carro c ON p.id = c.IdPessoa --Join entre tabelas
