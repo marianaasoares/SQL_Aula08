@@ -1,0 +1,1 @@
+﻿DELETE FROM Pessoa Where id = 2;
