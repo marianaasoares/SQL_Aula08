@@ -1,0 +1,4 @@
+﻿CREATE TABLE Pessoa(
+	id INT CONSTRAINT pessoa_pk PRIMARY KEY,
+	nome VARCHAR(50)
+);
